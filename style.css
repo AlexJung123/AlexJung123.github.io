@@ -1,0 +1,245 @@
+#menu {
+      position: fixed;
+      top: 0px;
+      left:0px;
+      width: 100%;
+      height: 40px;
+      background-color:rgb(142, 178, 218);
+      z-index: 999;
+      }
+      nav ul {
+        margin: 0px;
+        padding: 10px 0px 5px 190px;
+        }
+      nav li {
+        display: inline;
+        margin-right: 200px;
+        }
+        a {
+          color: white;
+          font-family: 'Arvo', sans-serif;
+          font-size: 20px;
+          }
+          nav li a:hover {
+            background-color: rgb(0, 50, 73);
+            }
+#pageMain {
+  padding-bottom: 50px;
+          }
+body {
+      background-color: rgb(0, 50, 73);
+      }
+      .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        }
+      .Wüste {
+        position:relative;
+        width: 100%;
+        }
+        .Bildtext1 {
+          position:absolute;
+          top:5px;
+          text-align: center;
+        }
+      .white-text {
+        color: white;
+      }
+      .white-textlink {
+        color: white;
+        font-size: 18px;
+        }
+      h2 {
+        font-family: 'Kaushan Script', sans-serif;
+        font-size: 80px;
+        top: 30px;
+        }
+
+#thumbnail1 {
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+            }
+      h1 {
+        text-align: center;
+        background-color:rgb(198, 165, 128);
+        padding: 10px;
+        font-size:28px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        }
+        .descriptionText1 {
+          text-align: center;
+          line-height: 23px;
+        }
+        .fullCard1 {
+        width: 720px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin: 10px 5px;
+        padding: 4px;
+        }
+        .cardContent1 {
+          padding: 20px;
+          }
+          .cardText1 {
+            margin-bottom: 5px;
+          }
+          .div1 {
+            float: left;
+            display: block;
+            }
+
+#thumbnail2 {
+            box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+                      }
+            h3 {
+                  text-align: center;
+                  background-color:rgb(198, 165, 128);
+                  padding: 5px;
+                  font-size:28px;
+                  bottom: 30px;
+                  margin-top: 0px;
+                  }
+          .descriptionText2 {
+                    text-align: center;
+                    line-height: 23px;
+                  }
+          .fullCard2 {
+                  position: relative;
+                  width: 270px;
+                  border: 1px solid #ccc;
+                  border-radius: 5px;
+                  margin: 10px 80px;
+                  padding-top: 20px;
+                  padding-right: 20px;
+                  padding-left: 20px;
+                  padding-bottom: 10px;
+                  }
+          .cardContent2 {
+                    padding: 5px;
+                    }
+          .cardText2 {
+                      margin-bottom: 5px;
+                    }
+          .div2 {
+                  float: right;
+                  left: 0px;
+                  margin-top: 10px;
+                  margin-right: 10px;
+                  margin-left: 20px;
+                  margin-bottom: 20px;
+                    }
+          .imgAboutMe {
+            padding-left: 45px;
+            width: 170px;
+            height: 190px;
+            }
+
+.imgUSAMap {
+              padding-left: 5px;
+              padding-bottom: 15px;
+              width: 280px;
+              height: 200px;
+              }
+.imgUKMap {
+              width: 240px;
+              height: 190px;
+              }
+.imgCZMap {
+              width: 260px;
+              height: 190px;
+              }
+.imgWorldMap {
+    padding-left: 5px;
+    width: 725px;
+    height: 300px;
+    }
+
+.three-column {
+  display: block;
+  padding: 0px;
+  }
+    .column {
+      float: left;
+      width: 235px;
+      padding: 5px;
+      }
+      .row:after {
+        content:"";
+        clear: both;
+        display: table;
+        }
+        .imgColumnsIndex {
+          padding-left: 0px;
+          padding-bottom: 30px;
+          width: 235px;
+          height: 170px;
+          }
+      .imgColumns {
+        padding-left: 0px;
+        padding-bottom: 30px;
+        width: 250px;
+        height: 190px;
+        }
+      .Textcenter {
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        }
+        .container {
+          position: relative;
+          text-align: center;
+          color: white;
+          }
+
+          .columnSubmit {
+            display:block;
+            padding-left: 40px;
+            }
+            .left {
+              width: 47%;
+              }
+            .middle {
+              width: 25%
+              }
+            .right {
+              width: 25%
+              }
+            .headlinecontainer {
+              font-size: 22px;
+              margin-top: 30px;
+              margin-bottom: 5px;
+              }
+            .headlinecolumns {
+              font-size: 17px;
+              }
+            .left1 {
+                width: 25%;
+                }
+            .right1 {
+                  width: 47%
+                  }
+
+#container {
+     width: 1100px;
+     margin: 0 auto;
+     }
+#pageFoot {
+      position: fixed;
+      bottom: 0px;
+      left: 0px;
+      z-index: 9;
+      width: 100%;
+      height: 40px;
+      }
+     .footer {
+       bottom: 10px;
+       }
+       .footerText {
+         color: white;
+         text-align: right;
+         padding-right: 10px;
+         background-color: rgb(142, 178, 218);
+         }
